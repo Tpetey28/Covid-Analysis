@@ -6,5 +6,7 @@ The goal for this project is to analyze covid-19 in several ways. In the SQL fil
 
 Please have a look at my SQL code included here, as well as my Tableau dashboard by following the link below.
 
+https://public.tableau.com/app/profile/trevor.peterson1629/viz/Covid-19Analysis_16589631416120/Dashboard1?publish=yes
+
 
 Thanks for reading!
